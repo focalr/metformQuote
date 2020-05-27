@@ -1,0 +1,19 @@
+c:\users\rjarrett\Documents\Documents\Personal\METFORM QUOTE\METFORM QUOTE\bin\Debug\METFORM QUOTE.exe.config
+c:\users\rjarrett\Documents\Documents\Personal\METFORM QUOTE\METFORM QUOTE\bin\Debug\METFORM QUOTE.exe
+c:\users\rjarrett\Documents\Documents\Personal\METFORM QUOTE\METFORM QUOTE\bin\Debug\METFORM QUOTE.pdb
+c:\users\rjarrett\Documents\Documents\Personal\METFORM QUOTE\METFORM QUOTE\bin\Debug\METFORM QUOTE.xml
+c:\users\rjarrett\Documents\Documents\Personal\METFORM QUOTE\METFORM QUOTE\obj\Debug\METFORM_QUOTE.Form1.resources
+c:\users\rjarrett\Documents\Documents\Personal\METFORM QUOTE\METFORM QUOTE\obj\Debug\METFORM_QUOTE.Resources.resources
+c:\users\rjarrett\Documents\Documents\Personal\METFORM QUOTE\METFORM QUOTE\obj\Debug\METFORM QUOTE.vbproj.GenerateResource.Cache
+c:\users\rjarrett\Documents\Documents\Personal\METFORM QUOTE\METFORM QUOTE\obj\Debug\METFORM QUOTE.exe
+c:\users\rjarrett\Documents\Documents\Personal\METFORM QUOTE\METFORM QUOTE\obj\Debug\METFORM QUOTE.xml
+c:\users\rjarrett\Documents\Documents\Personal\METFORM QUOTE\METFORM QUOTE\obj\Debug\METFORM QUOTE.pdb
+C:\Users\rjarrett\Documents\Documents\Personal\METFORM QUOTE\METFORM QUOTE\bin\Debug\METFORM QUOTE.exe.manifest
+C:\Users\rjarrett\Documents\Documents\Personal\METFORM QUOTE\METFORM QUOTE\bin\Debug\METFORM QUOTE.application
+C:\Users\rjarrett\Documents\Documents\Personal\METFORM QUOTE\METFORM QUOTE\obj\Debug\METFORM QUOTE.exe.manifest
+C:\Users\rjarrett\Documents\Documents\Personal\METFORM QUOTE\METFORM QUOTE\obj\Debug\METFORM QUOTE.application
+C:\Users\rjarrett\Documents\Documents\Personal\METFORM QUOTE\METFORM QUOTE\bin\Debug\Microsoft.Office.Client.Education.dll
+C:\Users\rjarrett\Documents\Documents\Personal\METFORM QUOTE\METFORM QUOTE\bin\Debug\Microsoft.SharePoint.Client.Runtime.dll
+C:\Users\rjarrett\Documents\Documents\Personal\METFORM QUOTE\METFORM QUOTE\obj\Debug\METFORM QUOTE.vbprojAssemblyReference.cache
+C:\Users\rjarrett\Documents\Documents\Personal\METFORM QUOTE\METFORM QUOTE\obj\Debug\METFORM QUOTE.vbproj.CoreCompileInputs.cache
+C:\Users\rjarrett\Documents\Documents\Personal\METFORM QUOTE\METFORM QUOTE\obj\Debug\METFORM QUOTE.vbproj.CopyComplete

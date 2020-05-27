@@ -1,0 +1,19 @@
+C:\Users\rjarrett\Documents\Documents\Personal\METFORM QUOTE\METFORM QUOTE\bin\Release\METFORM QUOTE.exe.config
+C:\Users\rjarrett\Documents\Documents\Personal\METFORM QUOTE\METFORM QUOTE\bin\Release\METFORM QUOTE.exe
+C:\Users\rjarrett\Documents\Documents\Personal\METFORM QUOTE\METFORM QUOTE\bin\Release\METFORM QUOTE.pdb
+C:\Users\rjarrett\Documents\Documents\Personal\METFORM QUOTE\METFORM QUOTE\bin\Release\METFORM QUOTE.xml
+C:\Users\rjarrett\Documents\Documents\Personal\METFORM QUOTE\METFORM QUOTE\obj\Release\METFORM_QUOTE.Form1.resources
+C:\Users\rjarrett\Documents\Documents\Personal\METFORM QUOTE\METFORM QUOTE\obj\Release\METFORM_QUOTE.Resources.resources
+C:\Users\rjarrett\Documents\Documents\Personal\METFORM QUOTE\METFORM QUOTE\obj\Release\METFORM QUOTE.vbproj.GenerateResource.Cache
+C:\Users\rjarrett\Documents\Documents\Personal\METFORM QUOTE\METFORM QUOTE\obj\Release\METFORM QUOTE.exe
+C:\Users\rjarrett\Documents\Documents\Personal\METFORM QUOTE\METFORM QUOTE\obj\Release\METFORM QUOTE.xml
+C:\Users\rjarrett\Documents\Documents\Personal\METFORM QUOTE\METFORM QUOTE\obj\Release\METFORM QUOTE.pdb
+C:\Users\rjarrett\Documents\Documents\Personal\METFORM QUOTE\METFORM QUOTE\bin\Release\METFORM QUOTE.exe.manifest
+C:\Users\rjarrett\Documents\Documents\Personal\METFORM QUOTE\METFORM QUOTE\bin\Release\METFORM QUOTE.application
+C:\Users\rjarrett\Documents\Documents\Personal\METFORM QUOTE\METFORM QUOTE\obj\Release\METFORM QUOTE.exe.manifest
+C:\Users\rjarrett\Documents\Documents\Personal\METFORM QUOTE\METFORM QUOTE\obj\Release\METFORM QUOTE.application
+C:\Users\rjarrett\Documents\Documents\Personal\METFORM QUOTE\METFORM QUOTE\bin\Release\Microsoft.Office.Client.Education.dll
+C:\Users\rjarrett\Documents\Documents\Personal\METFORM QUOTE\METFORM QUOTE\bin\Release\Microsoft.SharePoint.Client.Runtime.dll
+C:\Users\rjarrett\Documents\Documents\Personal\METFORM QUOTE\METFORM QUOTE\obj\Release\METFORM QUOTE.vbprojAssemblyReference.cache
+C:\Users\rjarrett\Documents\Documents\Personal\METFORM QUOTE\METFORM QUOTE\obj\Release\METFORM QUOTE.vbproj.CoreCompileInputs.cache
+C:\Users\rjarrett\Documents\Documents\Personal\METFORM QUOTE\METFORM QUOTE\obj\Release\METFORM QUOTE.vbproj.CopyComplete
